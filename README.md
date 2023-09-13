@@ -1,5 +1,5 @@
 # Descripción 🚨
-Este es un portfolio de algoritmos de machine learning creado con Python usando metodología CRISPDM. 
+Este es un portfolio de algoritmos de machine learning creado con Python y usando metodología CRISP-DM. 
 
 ## Autor -
 **Ing. Erick Chacón, MAIT, MAF Candidate*
