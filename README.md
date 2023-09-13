@@ -2,7 +2,7 @@
 Este es un portfolio de algoritmos de machine learning creado con Python y usando metodología CRISP-DM. 
 
 ## Autor -
-**Ing. Erick Chacón, MAIT, MAF Candidate*
+**Ing. Erick Chacón, MAIT, MAF Candidate**
 
 * [LinkedIn](https://www.linkedin.com/in/erickfernandochacon/)
 
